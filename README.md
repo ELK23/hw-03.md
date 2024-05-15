@@ -25,7 +25,8 @@
 ### Задание 1
 
 
-`![image](https://github.com/ELK23/hw-03.md/assets/67402682/79dc4ea9-362c-479d-9c5b-93452fb43fe0)
+`![image](https://github.com/ELK23/hw-03.md/assets/67402682/9c2b7f79-c05b-480b-a5d5-b9b042b110b8)
+
 `
 
 
@@ -49,7 +50,8 @@
 
 
 
-`![image](https://github.com/ELK23/hw-03.md/assets/67402682/0c2efcd5-b173-43a1-904a-eea0787b9834)
+`![image](https://github.com/ELK23/hw-03.md/assets/67402682/33847828-4cb9-48bb-8114-78b460b5eecb)
+
 `
 
 
